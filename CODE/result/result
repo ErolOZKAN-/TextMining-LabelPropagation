@@ -1,0 +1,12 @@
+time,nodeName,seedLabel,assignedLabel,trueLabel,result
+2017-01-15 12:23:48.690660,N10, -,earn,earn,True
+2017-01-15 12:23:48.690696,N8, -,acq,acq,True
+2017-01-15 12:23:48.690712,N9,earn,interest,earn,False
+2017-01-15 12:23:48.690726,N0, -,interest,interest,True
+2017-01-15 12:23:48.690739,N1,interest,interest,interest,True
+2017-01-15 12:23:48.690752,N2, -,earn,earn,True
+2017-01-15 12:23:48.690764,N3, -,interest,earn,False
+2017-01-15 12:23:48.690777,N4, -,interest,interest,True
+2017-01-15 12:23:48.690789,N5,acq,acq,acq,True
+2017-01-15 12:23:48.690802,N6, -,acq,acq,True
+2017-01-15 12:23:48.690814,N7, -,acq,acq,True
